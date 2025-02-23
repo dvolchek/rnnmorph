@@ -20,7 +20,7 @@ setup(
         'scikit-learn>=0.18.1',
         'keras>=2.1.4',
         'h5py>=2.7.0',
-        'pymorphy2>=0.8',
+        'pymorphy2 @ git+https://github.com/dvolchek/pymorphy2.git@main',
         'russian-tagsets==0.6',
         'tqdm>=4.14.0',
         'jsonpickle>=0.9.4',
